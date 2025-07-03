@@ -2,7 +2,7 @@
   "schemaVersion": "1.0.0",
   "sourceName": "BargTemp1",
   "mods": {
-    "speedrun-practice": {
+    "outrag-secrets": {
       "displayName": "Secrets",
       "description": "A mod that does something",
       "authors": [
@@ -40,8 +40,8 @@
       ],
       "perGameConfig": {
         "jak1": {
-          "coverArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Speedrun-Practice/main/ModImage.png",
-          "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Speedrun-Practice/main/ModImage.png",
+          "coverArtUrl": "https://static.wikia.nocookie.net/fantendo/images/3/3b/MissingNo_RB_back.png",
+          "thumbnailArtUrl": "https://static.wikia.nocookie.net/fantendo/images/3/3b/MissingNo_RB_back.png",
           "releaseDate": "2025-07-03"
         }
       },
