@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0.0",
+  "sourceName": "BargTemp1",
+  "mods": {
+    "speedrun-practice": {
+      "displayName": "Secrets",
+      "description": "A mod that does something",
+      "authors": [
+        "barg",
+        "OutrageousJosh"
+      ],
+      "tags": [
+        "speedrunning",
+        "challenge"
+      ],
+      "websiteUrl": "https://github.com/dallmeyer/test-mods/blob/main/README.md",
+      "supportedGames": [
+        "jak1"
+      ],
+      "versions": [
+        {
+          "version": "0.0.1",
+          "publishedDate": "2025-07-03T02:39:49Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/dallmeyer/test-mods/releases/download/v0.0.1/windows-v0.0.1.zip",
+            "linux": "https://github.com/dallmeyer/test-mods/releases/download/v0.0.1/linux-v0.0.1.tar.gz",
+            "macos": "https://github.com/dallmeyer/test-mods/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 80,
+            "linux": 7,
+            "macos": 2
+          }
+        }
+      ],
+      "perGameConfig": {
+        "jak1": {
+          "coverArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Speedrun-Practice/main/ModImage.png",
+          "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Speedrun-Practice/main/ModImage.png",
+          "releaseDate": "2025-07-03"
+        }
+      },
+      "externalLink": null
+    },
+
+  "texturePacks": {},
+  "lastUpdated": "2025-07-03T20:22:38.359Z"
+}
