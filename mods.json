@@ -19,8 +19,27 @@
       ],
       "versions": [
         {
+          "version": "0.0.10",
+          "publishedDate": "2025-07-09T10:39:49Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/dallmeyer/test-mods/releases/download/v0.0.10/windows-v0.0.10.zip"
+          },
+          "assetDownloadCounts": {
+            "windows": 80,
+            "linux": 7,
+            "macos": 2
+          }
+        },
+        {
           "version": "0.0.9",
-          "publishedDate": "2025-09-04T10:39:49Z",
+          "publishedDate": "2025-07-06T10:39:49Z",
           "supportedGames": [
             "jak1"
           ],
@@ -39,7 +58,7 @@
         },
         {
           "version": "0.0.8",
-          "publishedDate": "2025-09-04T10:39:49Z",
+          "publishedDate": "2025-07-05T10:39:49Z",
           "supportedGames": [
             "jak1"
           ],
