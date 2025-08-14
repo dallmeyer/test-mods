@@ -27,7 +27,7 @@
             "shareVanillaSaves": false
           },
           "assets": {
-            "windows": "https://github.com/dallmeyer/test-mods/releases/download/v1.0.0/windows-v1.0.0.zipp"
+            "windows": "https://github.com/dallmeyer/test-mods/releases/download/v1.0.0/windows-v1.0.0.zip"
           },
           "assetDownloadCounts": {
             "windows": 80,
