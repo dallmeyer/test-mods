@@ -1028,8 +1028,8 @@
       ],
       "perGameConfig": {
         "jak1": {
-          "coverArtUrl": "https://static.wikia.nocookie.net/fantendo/images/3/3b/MissingNo_RB_back.png",
-          "thumbnailArtUrl": "https://static.wikia.nocookie.net/fantendo/images/3/3b/MissingNo_RB_back.png",
+          "coverArtUrl": "https://raw.githubusercontent.com/all-things-andy-gavin/OG-Secrets/refs/heads/main/jadsc-bg.png",
+          "thumbnailArtUrl": "https://raw.githubusercontent.com/all-things-andy-gavin/OG-Secrets/refs/heads/main/jadsc-thumb.png",
           "releaseDate": "2025-07-03"
         }
       },
