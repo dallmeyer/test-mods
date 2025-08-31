@@ -19,6 +19,44 @@
       ],
       "versions": [
         {
+          "version": "0.6.5",
+          "publishedDate": "2025-08-28T05:45:49Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/all-things-andy-gavin/OG-Secrets/releases/download/v0.6.5/windows-v0.6.5.zip"
+          },
+          "assetDownloadCounts": {
+            "windows": 80,
+            "linux": 7,
+            "macos": 2
+          }
+        },
+        {
+          "version": "0.6.4",
+          "publishedDate": "2025-08-28T04:45:49Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/all-things-andy-gavin/OG-Secrets/releases/download/v0.6.4/windows-v0.6.4.zip"
+          },
+          "assetDownloadCounts": {
+            "windows": 80,
+            "linux": 7,
+            "macos": 2
+          }
+        },
+        {
           "version": "0.6.3",
           "publishedDate": "2025-08-28T03:45:49Z",
           "supportedGames": [
