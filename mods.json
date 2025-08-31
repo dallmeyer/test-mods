@@ -13,11 +13,30 @@
         "speedrunning",
         "challenge"
       ],
-      "websiteUrl": "https://github.com/dallmeyer/test-mods/blob/main/README.md",
+      "websiteUrl": "https://github.com/OpenGOAL-Mods/OG-SC/blob/main/README.md",
       "supportedGames": [
         "jak1"
       ],
       "versions": [
+        {
+          "version": "1.0.0",
+          "publishedDate": "2025-08-31T07:45:49Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-SC/releases/download/v1.0.0/windows-v1.0.0.zip"
+          },
+          "assetDownloadCounts": {
+            "windows": 80,
+            "linux": 7,
+            "macos": 2
+          }
+        },
         {
           "version": "0.7.1",
           "publishedDate": "2025-08-29T07:45:49Z",
