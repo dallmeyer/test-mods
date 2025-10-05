@@ -1,9 +1,9 @@
 {
   "schemaVersion": "1.0.0",
-  "sourceName": "BargTemp1",
+  "sourceName": "BargTemp2",
   "mods": {
     "outrag-secrets": {
-      "displayName": "Secrets",
+      "displayName": "True Hundo",
       "description": "A mod that does something",
       "authors": [
         "barg",
