@@ -1,26 +1,27 @@
 {
   "schemaVersion": "1.0.0",
-  "sourceName": "BargTemp2",
+  "sourceName": "BargTemp3",
   "mods": {
-    "outrag-secrets": {
-      "displayName": "True Hundo",
+    "no-orb": {
+      "displayName": "No Orbs",
       "description": "A mod that does something",
       "authors": [
         "barg",
-        "Rozer"
+        "SixRock",
+        "Kuitar (I guess)"
       ],
       "tags": [
         "speedrunning",
         "challenge"
       ],
-      "websiteUrl": "https://github.com/OpenGOAL-Mods/OG-SC/blob/main/README.md",
+      "websiteUrl": "https://github.com/OpenGOAL-Mods/OG-NoOrb/blob/main/README.md",
       "supportedGames": [
         "jak1"
       ],
       "versions": [
         {
-          "version": "100.0.2",
-          "publishedDate": "2025-10-06T07:45:49Z",
+          "version": "100.1.0",
+          "publishedDate": "2025-10-25T07:45:49Z",
           "supportedGames": [
             "jak1"
           ],
@@ -29,26 +30,7 @@
             "shareVanillaSaves": false
           },
           "assets": {
-            "windows": "https://github.com/dallmeyer/test-mods/releases/download/v100.0.2/windows-v100.0.2.zip"
-          },
-          "assetDownloadCounts": {
-            "windows": 80,
-            "linux": 7,
-            "macos": 2
-          }
-        },
-        {
-          "version": "100.0.1",
-          "publishedDate": "2025-10-05T07:45:49Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/dallmeyer/test-mods/releases/download/v100.0.1/windows-v100.0.1.zip"
+            "windows": "https://github.com/dallmeyer/test-mods/releases/download/v100.1.0/windows-v100.1.0.zip"
           },
           "assetDownloadCounts": {
             "windows": 80,
@@ -59,9 +41,9 @@
       ],
       "perGameConfig": {
         "jak1": {
-          "coverArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-SC/refs/heads/main/th_img.png",
-          "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-SC/refs/heads/main/th_img.png",
-          "releaseDate": "2025-10-05"
+          "coverArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-SC/refs/heads/hidden/norb.png",
+          "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/OG-SC/refs/heads/hidden/norb.png",
+          "releaseDate": "2025-10-26"
         }
       },
       "externalLink": null
