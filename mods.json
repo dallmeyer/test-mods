@@ -17,25 +17,6 @@
       ],
       "versions": [
         {
-          "version": "0.0.2",
-          "publishedDate": "2025-12-07T07:45:49Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/gratefulforest/Cratetopia/releases/download/v0.0.2/windows-v0.0.2.zip"
-          },
-          "assetDownloadCounts": {
-            "windows": 80,
-            "linux": 7,
-            "macos": 2
-          }
-        },
-        {
           "version": "0.0.1",
           "publishedDate": "2025-11-30T07:45:49Z",
           "supportedGames": [
