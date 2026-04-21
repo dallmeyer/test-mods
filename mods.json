@@ -17,7 +17,7 @@
       "versions": [
         {
           "version": "0.0.5",
-          "publishedDate": "2025-08-31T07:45:49Z",
+          "publishedDate": "2026-04-20T07:45:49Z",
           "supportedGames": [
             "jak3"
           ],
@@ -33,7 +33,7 @@
             "linux": 7,
             "macos": 2
           }
-        },
+        }
       ],
       "perGameConfig": {
         "jak3": {
@@ -46,5 +46,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2025-08-30T00:22:38.359Z"
+  "lastUpdated": "2026-04-20T07:59:38.359Z"
 }
