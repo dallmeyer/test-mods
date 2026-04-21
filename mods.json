@@ -2,9 +2,9 @@
   "schemaVersion": "1.0.0",
   "sourceName": "barg-temp-hm3",
   "mods": {
-    "outrag-secrets": {
+    "pre-release-hm3": {
       "displayName": "pre-release--Jak3HMPlus",
-      "description": "",
+      "description": "test listing",
       "authors": [
         "Kraken"
       ],
