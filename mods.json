@@ -16,7 +16,7 @@
       ],
       "versions": [
         {
-          "version": "1.0.5",
+          "version": "0.0.5",
           "publishedDate": "2025-08-31T07:45:49Z",
           "supportedGames": [
             "jak3"
@@ -36,7 +36,7 @@
         },
       ],
       "perGameConfig": {
-        "jak1": {
+        "jak3": {
           "coverArtUrl": "https://raw.githubusercontent.com/RealOfficialKraken/pre-release--Jak3HMPlus/refs/heads/main/ModImage.png",
           "thumbnailArtUrl": "https://raw.githubusercontent.com/RealOfficialKraken/pre-release--Jak3HMPlus/refs/heads/main/HeroModePlusIcon.png",
           "releaseDate": "2026-04-20"
